@@ -3,6 +3,10 @@ require 'slim'
 require 'sinatra/reloader'
 require "sqlite3"
 
+#Djur sidan
+
+
+
 # Ta bort en frukt
 
 post("/fruits/:id/delete") do 
